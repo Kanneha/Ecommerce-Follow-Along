@@ -6,3 +6,7 @@ There are many key-features like,
    -Product Listing & Management: Add and display products.
    -User Authentication: Users can sign up, log in, and view their orders.
    -Order Handling: Users can make purchases, and we’ll track those orders.
+
+## Milestone 2
+
+Login Page for E-commerce Follow Along has been done
